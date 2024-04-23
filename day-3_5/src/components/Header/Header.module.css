@@ -1,0 +1,16 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 100%;
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, #c02d28, #e66225);
+}
+.logo__name {
+  color: #fff;
+  font-size: 24px;
+}
